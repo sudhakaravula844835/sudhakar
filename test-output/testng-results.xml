@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34526" started-at="2020-03-11T09:08:38Z" finished-at="2020-03-11T09:09:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34526" started-at="2020-03-11T09:08:38Z" finished-at="2020-03-11T09:09:13Z">
+      <class name="Com.Test.BMW_Test">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Com.Test.BMW_Test@6ea6d14e]" name="startup" is-config="true" duration-ms="13374" started-at="2020-03-11T14:38:38Z" finished-at="2020-03-11T14:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Com.Test.BMW_Test@6ea6d14e]" name="test" duration-ms="17758" started-at="2020-03-11T14:38:52Z" finished-at="2020-03-11T14:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Com.Test.BMW_Test@6ea6d14e]" name="close" is-config="true" duration-ms="3347" started-at="2020-03-11T14:39:09Z" finished-at="2020-03-11T14:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Com.Test.BMW_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
